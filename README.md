@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Julia Berezina. 
 
-Fell in love with programming at age 14. 
+I fell in love with programming at age 14. 
   
 
 My stack as **data analyst**: python, pandas, numpy, scipy, scikit-learn, matplotlib
